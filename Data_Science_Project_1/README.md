@@ -1,4 +1,4 @@
-# SF Data Saentist. PROJECT-1
+# SF Data Saentist. PROJECT-1 "Анализ вакансий из HeadHunter"
 SF HomeWork. PROJECT-1 
 
 Оглавление
