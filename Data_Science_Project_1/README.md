@@ -1,28 +1,31 @@
-# SF Data Saentist. PROJECT-1 "Анализ вакансий из HeadHunter"
-SF HomeWork. PROJECT-1 
+# PROJECT-1. Анализ вакансий из HeadHunter
 
-Оглавление
-1. Описание проекта
-2. Какой кейс решаем?
-3. Краткая информация о данных
-4. Этапы работы над проектом
-5. Результат
-6. Выводы
+## Оглавление
+ [1. Описание проекта](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Описание-проекта)
 
-Описание проекта
+ [2. Какой кейс решаем?](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Какой-кейс-решаем)
 
-Проект для  компании HeadHunter.
+ [3. Краткая информация о данных](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Краткая-информация-о-данных)
 
-⬆️к оглавлению
+ [4. Этапы работы над проектом](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Этапы-работы-над-проектом)
 
-Какой кейс решаем?
+ [5. Результаты](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Результаты)
+ 
+ [6. Выводы](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Выводы)
+
+### Описание пректа 
+Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
+
+:arrow_up:[ к оглавлению](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Оглавление)
+
+### Какой кейс решаем?
 
 Подготовть данные для принятия решения по соискателям для компании HeadHunter.
 
-⬆️к оглавлению
+:arrow_up:[ к оглавлению](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Оглавление)
 
 
-Краткая информация о данных
+### Краткая информация о данных
 
 датасет компании HeadHunter: 
 https://drive.google.com/u/0/uc?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=download
@@ -30,24 +33,26 @@ https://drive.google.com/u/0/uc?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=down
 курсы валют: 
 https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip
 
-⬆️к оглавлению
+:arrow_up:[ к оглавлению](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Оглавление)
 
-Этапы работы над проектом
+### Этапы работы над проектом
 
 Разработка программы на основе пройденных курсов SkillFactory: DSPR-2.0 Профессия Data Science
 
-⬆️к оглавлению
+:arrow_up:[ к оглавлению](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Оглавление)
 
-Результаты:
+### Результаты
+- Проведено исследования структуры данных.
+- Данные преобразованы.
+- Выявлены взаимосвязи, зависимости, аномалии в данных. Определены распределения признаков.
+- Данные очищены от дубликатов, пропусков и выбросов.
+- Проект создан с применением PEP8.
+- Код воспроизводим.
+- Проект загружен на GitHub.
+- GitHub оформлен соответствующим образом.
 
-В программе приведены группированные данные, сводные таблицы, графики, диаграммы, тепловые диаграммы, полученные на основании предобработки данных с указанного выше файла.  
+:arrow_up:[ к оглавлению](https://github.com/emelyany4eff/Data_Science_Project_1/tree/master/Data_Science_Project_1/README.md#Оглавление)
 
-⬆️к оглавлению
-
-Выводы:
+### Выводы:
 
 выводы по каждому заданию и графику прведены в Jupyter-notebook
-
-⬆️к оглавлению
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
